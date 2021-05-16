@@ -1,6 +1,6 @@
 # Golang twitter http client
 
-There is a package named [go-twitter](https://github.com/dghubble/go-twitter/) that's basically an abstraction on top of a [twitter API](https://developer.twitter.com/en/docs/twitter-api/v1) http client. The main purpose here is just to make a proof of concept (POC) based on `twitter API` encouraged by a
+There is a package named [go-twitter](https://github.com/dghubble/go-twitter/) that's basically an abstraction on top of a [twitter API](https://developer.twitter.com/en/docs/twitter-api/v1) http client. The main purpose here is just show a proof of concept (POC) based on `twitter API` encouraged by a
 [stackoverflow](https://pt.stackoverflow.com/questions/496796/como-realizar-um-post-com-um-m%c3%a9todo-de-aut%c3%aantica%c3%a7%c3%a3o-de-terceiros) question.
 
 ## Pre requisites
